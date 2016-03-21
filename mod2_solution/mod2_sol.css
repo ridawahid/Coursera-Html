@@ -1,0 +1,19 @@
+#head2 h2{
+	text-align: center;
+}
+body{
+	margin:5px;
+	padding: 0;
+
+}
+*{
+	box-sizing: border-box;
+}
+#box1
+{
+	background-color: gray;
+	padding: 10px;
+	border: 20px, solid;
+	width: 200px;
+	margin: 30px;
+}
